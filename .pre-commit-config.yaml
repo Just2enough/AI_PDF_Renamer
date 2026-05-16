@@ -11,4 +11,4 @@ repos:
         entry: osv-scanner -r .
         language: system
         pass_filenames: false
-        files: ^(package-lock\.json|Cargo\.lock|requirements.*\.txt|poetry\.lock|pnpm-lock\.yaml|yarn\.lock|composer\.lock|Pipfile\.lock|go\.sum|Gemfile\.lock)$
+        files: ^(.*package-lock\.json|.*Cargo\.lock|.*requirements.*\.txt|.*poetry\.lock|.*pnpm-lock\.yaml|.*yarn\.lock|.*composer\.lock|.*Pipfile\.lock|.*go\.sum|.*Gemfile\.lock|.*uv\.lock|.*pylock\.toml|.*pdm\.lock|.*bun\.lock)$
