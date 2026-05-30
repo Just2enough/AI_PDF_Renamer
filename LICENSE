@@ -24,7 +24,7 @@ Copyright (c) 2026 Just2enough. All rights reserved.
    操作によりファイルが上書きされる場合があります。
    重要なファイルについては、事前にバックアップを取ることを推奨します。
 
-   AI（Google Gemini API）による解析結果の正確性・完全性は保証されません。
+   AI（Google Gemini API または Anthropic Claude API）による解析結果の正確性・完全性は保証されません。
 
    APIキーの取得・管理は利用者自身の責任において行ってください。
 
